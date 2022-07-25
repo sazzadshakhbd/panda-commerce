@@ -1,0 +1,19 @@
+.pnada-bg-info {
+    background: #feeae9;
+}
+
+.banner {
+    margin-top: 100px;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.btn-buy-now {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    color: #fff;
+    border: 0;
+    padding: 5px 15px;
+}
