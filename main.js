@@ -7,4 +7,11 @@ for (color of colorLightBlue) {
 // Backpack section background color tomato
 
 const bgTomato = document.getElementById('backpack');
-bgTomato.style.backgroundColor = 'tomato'; 
+bgTomato.style.backgroundColor = 'tomato';
+
+// all card class border-radius 30px
+const cardLists = document.getElementsByClassName('card');
+for (cardList of cardLists) {
+    cardList.style.borderRadius = '30px'
+    console.log(cardLists);
+}
